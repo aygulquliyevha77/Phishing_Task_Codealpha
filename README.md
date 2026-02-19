@@ -28,6 +28,8 @@ information by phone
 • Fake websites that look like 
 real login pages  
 • Used to steal usernames and passwords
+
+
 🔐 Phishing Websites
 What is a Phishing Website?
 A phishing website is a fake website that looks like
