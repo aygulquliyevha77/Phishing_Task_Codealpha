@@ -9,6 +9,8 @@ The main goal is to steal sensitive information 🔐
    – Emails 📧
    – Messages 📱
    – Fake websites 🌐
+
+   
 Types of Phishing Attacks
 🎣 Email Phishing  
 • Fake emails pretending to be banks, companies, or services  
@@ -62,6 +64,9 @@ Keep your credentials private
 Do not click links from unknown emails or messages
 Hover over links to check the real destination
 Type website addresses manually in the browser
+
+
+
 🌍 Real-World Phishing Examples
 🔐 Example 1: Fake Bank Account Verification Email
 📌 Scenario
@@ -88,6 +93,9 @@ capture the data
 Account hijacking
 Loss of personal data
 Spread of malware or spam messages from compromised accounts
+
+
+
 Author
 Aygul Quliyeva
 Computer Engineering Student | Aspiring Red & Blue Team Specialist | Cybersecurity Enthusiast
