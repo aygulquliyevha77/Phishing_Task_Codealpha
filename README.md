@@ -42,6 +42,9 @@ Why Phishing Websites Are Dangerous
 Accounts can be hacked
 Money can be stolen
 Personal data can be misused
+
+
+
 How to Stay Safe from Phishing Websites
 ✅ Check the website URL carefully✅ Do not click unknown links✅ Enter website addresses manually✅ Use updated browsers and security tools ✅ Enable two-factor authentication (2FA)
 Protecting Yourself and Your Organization
@@ -80,6 +83,8 @@ The fake site collects login credentials and financial information
 Stolen bank account details
 Unauthorized transactions
 Financial loss
+
+
 📱 Example 2: Fake Social Media Login Page
 📌 Scenario
 Attackers create fake login pages that look identical to platforms
@@ -99,8 +104,7 @@ Spread of malware or spam messages from compromised accounts
 Author
 Aygul Quliyeva
 Computer Engineering Student | Aspiring Red & Blue Team Specialist | Cybersecurity Enthusiast
-My linkedln profile:https://www.linkedin.com/in/
-aygul-quliyeva-7172b3384
+My linkedln profile:www.linkedin.com/in/aygul-quliyeva-7172b3384
 ⭐ If you found this helpful, give this repository a star
 
 
