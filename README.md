@@ -1,5 +1,8 @@
 # Phishing_Task_Codealpha
 Phishing⚠️ Awareness Training  • Recognize • Avoid • Report
+
+
+
 Phishing is social-engineering that convinces victims to disclose credentials, install malware, or transfer funds by impersonating trusted sources. Attackers exploit urgency, trust, and routine behaviors.
 The main goal is to steal sensitive information 🔐
    – Passwords
